@@ -1,7 +1,8 @@
-name:MLFlow_base
+name:   muiltistep_examples
 
-conda:conda.yaml
+conda_env:  conda.yaml
 
-entry_point:
+entry_points:
     main:
-        command:python main.py
+        command:"python main.py"
+
