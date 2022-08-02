@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/eawhsne/PycharmProjects/BasicMLFlow/mlruns/0/f0ffacccc7fb4d9abaf125f5169fad5a/artifacts
+end_time: 1659352568443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f0ffacccc7fb4d9abaf125f5169fad5a
+run_uuid: f0ffacccc7fb4d9abaf125f5169fad5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1659352568402
+status: 3
+tags: []
+user_id: eawhsne

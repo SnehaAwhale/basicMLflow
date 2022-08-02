@@ -1,0 +1,7 @@
+name:MLFlow_base
+
+conda:conda.yaml
+
+entry_point:
+    main:
+        command:python main.py
